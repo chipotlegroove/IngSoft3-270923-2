@@ -7,4 +7,4 @@ if __name__ == '__main__':
     print(suma(lista_numeros))
     print(resta(lista_numeros))
     print(multiplicacion(lista_numeros))
-    print("Ya se cambio solucionando el error")
+    print("Ya se cambio solucionando el error si que si")
