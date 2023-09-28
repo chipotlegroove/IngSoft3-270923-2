@@ -1,6 +1,6 @@
 # IngSoft3-270923-2
 
-#Equipo
+# Equipo
 
 Jared Barojas Alcántar
 
